@@ -938,5 +938,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Sally Chhuon's Solution](https://github.com/sc2225/etch_a_sketch) - [View in Browser](https://sc2225.github.io/etch_a_sketch/)
 * [Stinji's Solution](https://github.com/Stinji/etch-a-sketch) - [View in Browser](https://stinji.github.io/etch-a-sketch/)
 * [Tuan Nguyen's Solution](https://github.com/Tuan96/TuanSketch) - [View in Browser](https://tuan96.github.io/TuanSketch/)
+* [Jonathan fallas's Solution](https://github.com/Elfjhon/ETCH-A-SKETCH)-[View in Browser](https:/Elfjhon.github.io/ETCH-A-SKETCH/)
 
 </details>
